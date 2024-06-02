@@ -1,3 +1,4 @@
 # Demo
 This is my 1st repository
-Auther : Rahul Birwadkar
+<br>
+Author: Rahul Birwadkar
